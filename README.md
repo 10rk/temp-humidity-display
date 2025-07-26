@@ -1,10 +1,3 @@
-# temp-humidity-display
-Simple Proejct Displays realtime atmospheric data on LCD module using STM32 
-BOARD: STM32 **NUCLEO-F103RB**
-Used Sensor: **DHT22** Humidity/Temperature Sensor 
-LCD Modue : **SZH-EK101** (I2C) 
-
-
 
 # STM32 Atmospheric Data Display Project
 
