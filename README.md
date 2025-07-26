@@ -31,5 +31,5 @@ This project uses an **STM32 microcontroller** to display real-time atmospheric 
 
 ## Source 
 
-https://github.com/MYaqoobEmbedded/STM32-Tutorials/blob/master/Tutorial%2025%20-%20DHT22%20Temperature%20Sensor/MY_DHT22.c
-https://github.com/SayidHosseini/STM32LiquidCrystal_I2C
+-https://github.com/MYaqoobEmbedded/STM32-Tutorials/blob/master/Tutorial%2025%20-%20DHT22%20Temperature%20Sensor/MY_DHT22.c
+-https://github.com/SayidHosseini/STM32LiquidCrystal_I2C
