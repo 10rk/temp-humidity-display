@@ -7,9 +7,9 @@ This project uses an **STM32 microcontroller** to display real-time atmospheric 
 
 ## Features
 
-- Reads atmospheric data (e.g., temperature, humidity, pressure) from sensors
-- Displays data in real-time on a standard character or graphic LCD
-- Optional UART interface for serial monitoring and debugging
+- Reads atmospheric data (e.g., temperature, humidity) from sensor
+- Displays data in real-time data on LCD
+- UART interface for serial monitoring and debugging
 
 ## Components
 
